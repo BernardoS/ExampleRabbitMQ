@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="D:/Programação/C#/RabbitMq/ExampleRabbitMQ/src/RabbitMQ.Consumer/RabbitMQ.Consumer.csproj" />
+  <Project Path="D:/Programação/C#/RabbitMq/ExampleRabbitMQ/src/RabbitMQ.Model/RabbitMQ.Model.csproj" />
+  <Project Path="D:/Programação/C#/RabbitMq/ExampleRabbitMQ/src/RabbitMQ.Producer/RabbitMQ.Producer.csproj" />
+</Solution>
